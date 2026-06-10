@@ -20,11 +20,6 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-Loom Message - 9 June 2026 - Watch Video
-
-
-<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/b51a5e3bce6740f7b237a5a51d5e3e83" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
 <div>
     <a href="https://www.loom.com/share/b51a5e3bce6740f7b237a5a51d5e3e83">
       <p>Loom Message - 9 June 2026 - Watch Video</p>
@@ -33,8 +28,6 @@ Loom Message - 9 June 2026 - Watch Video
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b51a5e3bce6740f7b237a5a51d5e3e83-6c30a9b6a6c854fa-full-play.gif#t=0.1">
     </a>
   </div>
-
-https://www.loom.com/share/b51a5e3bce6740f7b237a5a51d5e3e83
 
 
 ## Notes
