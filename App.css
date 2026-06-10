@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #0a0a0a;
+  color: #f0ece4;
+  font-family: 'Georgia', serif;
+  min-height: 100vh;
+}
+
+.app-header {
+  text-align: center;
+  padding: 3rem 1rem 2rem;
+  border-bottom: 1px solid #2a2a2a;
+}
+
+.app-header h1 {
+  font-size: 2.5rem;
+  letter-spacing: 0.15em;
+  color: #d4af7a;
+  margin-bottom: 0.5rem;
+}
+
+.app-header p {
+  color: #888;
+  letter-spacing: 0.08em;
+  font-size: 0.95rem;
+}
+
+/* Responsive grid — auto-fits columns, minimum 280px each */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+  padding: 2rem;
+  max-width: 1400px;
+  margin: 0 auto;
+}
